@@ -1,3 +1,6 @@
 [submodule "PlayerHeadAxe"]
 	path = PlayerHeadAxe
 	url = https://github.com/Kyunashi/PlayerHeadAxe.git
+[submodule "Backpack"]
+	path = Backpack
+	url = https://github.com/Kyunashi/Backpack.git
